@@ -4,7 +4,7 @@ const TransactionList = () => {
     return (
         <div>
             <h3>History</h3>
-            <ul class="list">
+            <ul className="list">
                 <li className="minue">
                     Cash <span>-$400</span><button className="delete-btn">X</button>
                 </li>
